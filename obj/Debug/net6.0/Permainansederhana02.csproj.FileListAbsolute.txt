@@ -1,0 +1,15 @@
+D:\Visual Studio\Permainansederhana02\bin\Debug\net6.0\Permainansederhana02.exe
+D:\Visual Studio\Permainansederhana02\bin\Debug\net6.0\Permainansederhana02.deps.json
+D:\Visual Studio\Permainansederhana02\bin\Debug\net6.0\Permainansederhana02.runtimeconfig.json
+D:\Visual Studio\Permainansederhana02\bin\Debug\net6.0\Permainansederhana02.dll
+D:\Visual Studio\Permainansederhana02\bin\Debug\net6.0\Permainansederhana02.pdb
+D:\Visual Studio\Permainansederhana02\obj\Debug\net6.0\Permainansederhana02.csproj.AssemblyReference.cache
+D:\Visual Studio\Permainansederhana02\obj\Debug\net6.0\Permainansederhana02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Permainansederhana02\obj\Debug\net6.0\Permainansederhana02.AssemblyInfoInputs.cache
+D:\Visual Studio\Permainansederhana02\obj\Debug\net6.0\Permainansederhana02.AssemblyInfo.cs
+D:\Visual Studio\Permainansederhana02\obj\Debug\net6.0\Permainansederhana02.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Permainansederhana02\obj\Debug\net6.0\Permainansederhana02.dll
+D:\Visual Studio\Permainansederhana02\obj\Debug\net6.0\refint\Permainansederhana02.dll
+D:\Visual Studio\Permainansederhana02\obj\Debug\net6.0\Permainansederhana02.pdb
+D:\Visual Studio\Permainansederhana02\obj\Debug\net6.0\Permainansederhana02.genruntimeconfig.cache
+D:\Visual Studio\Permainansederhana02\obj\Debug\net6.0\ref\Permainansederhana02.dll
